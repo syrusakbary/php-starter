@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-php-starter
+owner: syrusakbary
+package: syrusakbary/php-starter
+scaling:
+  mode: single_concurrency
